@@ -1,0 +1,2 @@
+# introduction_to_multithreaded_programming
+『Linuxとpthreadsによるマルチスレッドプログラミング入門』を学ぶためのレポジトリ
